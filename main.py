@@ -27,3 +27,5 @@ par2.add_run(' Добавляем текст в третий абзац.').bold 
 
 
 doc.save('example.docx')
+
+#&&??&&
